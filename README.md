@@ -11,7 +11,7 @@ Commit and push changes and check your repository on github.com to confirm your 
 
 Intro comments template
 # Team Names:
-# Course: CS151, Dr. Simari, Fall 2020
+# Course: CS151, Dr. Rajeev, Fall 2020
 # Date:
 # Lab Number:
 Submission
